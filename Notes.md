@@ -1,0 +1,2 @@
+# My Notes
+A data type is essential a classification the kind of data that a variable can store, such as number, string, boolean, etc. The data type tells the computer how to interpret and handle the data stored in variables. 
